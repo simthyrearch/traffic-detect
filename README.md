@@ -15,8 +15,12 @@ $ cd build
 $ cmake ..
 ```
 
-# Downlaoding Input Data
+# Downloading Input Data
 To download sample input data, use the script `data/getvids.sh`. 
 This will download videos corresponding to the youtube links specified in `data/videolinks.txt`.
 
 `$ cd data && ./getvids.sh`
+
+# Paper Writeup
+[Writeup](https://www.overleaf.com/2148262488wfdxqsvrmxyq)
+
